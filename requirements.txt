@@ -1,5 +1,6 @@
-pickle
-pandas
+Flask
+scikit-learn
+joblib
+flask-cors
 numpy
-sklearn
-flask
+pandas
